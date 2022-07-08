@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aymano200
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on the discord-fr-wiki
 - 📫 How to reach me ...
 
 <!---
